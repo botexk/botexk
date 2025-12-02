@@ -4,7 +4,7 @@
     <style>
       /* Scroll-Margin für alle Überschriften, die Ziel von Ankern sein können */
 h2, h3, h4 {
-    scroll-margin-top: 80px;   /* Höhe deines Sticky‑Headers + etwas Puffer */
+    scroll-margin-top: 200px;   /* Höhe deines Sticky‑Headers + etwas Puffer */
 }
       @media (max-width: 768px) {
     h2, h3, h4 { scroll-margin-top: 60px; }
